@@ -1,6 +1,7 @@
 body{
     font-family: Arial, sans-serif;
 }
+/* color background */
 .bg_black{
     background-color: black;
 }
@@ -19,10 +20,7 @@ body{
 .bg_grey_light{
     background-color:#BEBCBB;
 }
-.logo_play{
 
-    filter: invert(1);
-}
 .btn.btn-secondary.btn_login{
     border-radius: 25px;
     border: 4px  double white;
@@ -40,14 +38,16 @@ body{
     -o-background-size: cover;
     background-size: cover;
 }
-.square{
-    height: 300px;
-    width: 200px;
-    background-color: violet;
-}
 .content_hero{
     padding-top: 500px;
 }
 .logo_returnal{
     width: 50%;
+}
+.card#card_section_games img{
+    border-radius: 25px !important;
+}
+.card#card_section_games.selected img{
+    border-radius: 25px !important;
+    border: 4px solid #00439C;
 }

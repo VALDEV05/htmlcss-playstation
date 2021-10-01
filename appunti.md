@@ -3,7 +3,7 @@ con bonus
 Complete section hero_image
 Complete section card_games
 Bonus
-
+complete title section presentazione playstation
 aggiunta bottone nella sezione hero_image
     <!-- Completare il funzionamento della navbar principale (usando o no un componente a seconda della classe); -->
     Realizzare gli effetti hover come visto in classe

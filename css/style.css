@@ -61,3 +61,11 @@ body{
 .title_section{
     font-size: 30px;
 }
+.play{
+    height: 100%;
+    width: 50%;
+    background-image: url(../img_playstation/img/playstation-5-thumb.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    transform: scale(2);
+}

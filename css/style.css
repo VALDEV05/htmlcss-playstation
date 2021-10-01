@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, sans-serif;
+}
+.bg_black{
+    background-color: black;
+}
+.logo_play{
+
+    filter: invert(1);
+}
+.btn.btn-secondary.btn_login{
+    border-radius: 25px;
+    border: 4px  double white;
+    background-color: #363636;
+}
+
+.sony_logo{
+    width: 100px;
+}

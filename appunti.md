@@ -5,6 +5,8 @@ Complete section card_games
 Bonus
 complete title section presentazione playstation
 aggiunta bottone nella sezione hero_image
+
+completata colonna sx sezione presentazione_play
     <!-- Completare il funzionamento della navbar principale (usando o no un componente a seconda della classe); -->
     Realizzare gli effetti hover come visto in classe
     Fare pratica con le animazioni/transizioni aggingendo effetti a piacere (non fate pecionate)

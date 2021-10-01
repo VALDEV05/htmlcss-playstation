@@ -27,7 +27,8 @@ body{
     background-color: #363636;
 }
 
-.btn.btn-danger#btn_hero{
+.btn.btn-danger#btn_hero,
+.btn.btn-primary#btn_present_play{
     border-radius: 20px !important;
 
 }

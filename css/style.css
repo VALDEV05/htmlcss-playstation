@@ -31,11 +31,23 @@ body{
 .sony_logo{
     width: 100px;
 }
-.jumbotron{
-    background: url("bg.jpg") no-repeat center center; 
-    -webkit-background-size: 100% 100%;
-    -moz-background-size: 100% 100%;
-    -o-background-size: 100% 100%;
-    background-size: 100% 100%;
-    height: 500px;
+.container-fluid.hero_image{
+    background: url(../img_playstation/img/jumbo-bg.png) no-repeat center top;
+    width: 100vw;
+    height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.square{
+    height: 300px;
+    width: 200px;
+    background-color: violet;
+}
+.content_hero{
+    padding-top: 500px;
+}
+.logo_returnal{
+    width: 50%;
 }

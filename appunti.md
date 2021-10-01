@@ -1,5 +1,6 @@
 Creato header responsive
 con bonus
+Complete section hero_image
 
 Bonus
     <!-- Completare il funzionamento della navbar principale (usando o no un componente a seconda della classe); -->

@@ -26,6 +26,12 @@ body{
     border: 4px  double white;
     background-color: #363636;
 }
+
+.btn.btn-danger#btn_hero{
+    border-radius: 20px !important;
+
+}
+
 .sony_logo{
     width: 100px;
 }

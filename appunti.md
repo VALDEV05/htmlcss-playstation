@@ -14,6 +14,9 @@ complete presentation section
 Completata anche sezione card_accessori aggiunto effetto con hover border-bottom blue
 
 Completata sezione hero_image_two_players 
+
+
+Complete section_new_games_card
     <!-- Completare il funzionamento della navbar principale (usando o no un componente a seconda della classe); -->
     Realizzare gli effetti hover come visto in classe
     Fare pratica con le animazioni/transizioni aggingendo effetti a piacere (non fate pecionate)

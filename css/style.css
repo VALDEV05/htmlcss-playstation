@@ -78,3 +78,14 @@ body{
 .blue_btn {
   background-color: #00439C;
 }
+.card_accessori {
+  min-height: 259px;
+  cursor: pointer;
+}
+.card_accessori.selected{
+  border-bottom: 3px solid #00439C;
+
+}
+.card_accessori:hover {
+  border-bottom: 3px solid #00439C;
+}

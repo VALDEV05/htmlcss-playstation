@@ -69,3 +69,12 @@ body{
     background-repeat: no-repeat;
     transform: scale(2);
 }
+.border_btn_b:hover {
+  border: 2px solid #00439C;
+}
+.type_button {
+  display: inline-block;
+}
+.blue_btn {
+  background-color: #00439C;
+}

@@ -89,3 +89,11 @@ body{
 .card_accessori:hover {
   border-bottom: 3px solid #00439C;
 }
+.hero_image_two_players {
+  background-image: url("../img_playstation/img/it-takes-two-hero-banner-desktop.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat no-repeat;
+  height: 700px;
+  margin-top: 7.2rem;
+}

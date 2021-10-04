@@ -28,7 +28,7 @@ completata section playstation_plus
 
 complete section discount
 
-
+Complet section playstation_now ma da rivedere
 
 
 

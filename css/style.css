@@ -77,10 +77,11 @@ body{
 }
 .card_accessori {
   min-height: 259px;
-  cursor: pointer;
+  filter: opacity(0.5);
 }
 .card_accessori.selected{
   border-bottom: 3px solid #00439C;
+  filter: opacity(1);
 
 }
 .card_accessori:hover {

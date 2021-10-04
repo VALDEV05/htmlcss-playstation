@@ -20,6 +20,26 @@ Complete section_new_games_card
 
 Complete section esplora ps4 
 correzione bottoni
+
+Modificato la color_correction delle card_accessori(aggiunta opacità)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <!-- Completare il funzionamento della navbar principale (usando o no un componente a seconda della classe); -->
     Realizzare gli effetti hover come visto in classe
     Fare pratica con le animazioni/transizioni aggingendo effetti a piacere (non fate pecionate)

@@ -91,7 +91,7 @@ body{
   background-image: url("../img_playstation/img/it-takes-two-hero-banner-desktop.jpg");
   background-position: center;
   background-size: cover;
-  background-repeat: no-repeat no-repeat;
+  background-repeat: no-repeat;
   height: 700px;
   margin-top: 7.2rem;
 }
@@ -99,7 +99,13 @@ body{
     background-color: #D9DADC;
     border-radius: 25px;
 }
-@media screen and (max-width:1190px){
+.hero_image_play_plus{
+    background-image: url("../img_playstation/img/ps-plus-april-monthly-games-featured-image-block.png");
+    background-position-x: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+@media screen and (max-width:981px){
     .d_none{
         display: none;
     }    

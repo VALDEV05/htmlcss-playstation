@@ -20,7 +20,9 @@ body{
 .bg_grey_light{
     background-color:#BEBCBB;
 }
-
+/******************
+       button
+*******************/
 .btn.btn-secondary.btn_login{
     border-radius: 25px;
     border: 4px  double white;
@@ -30,20 +32,25 @@ body{
 .btn.btn-danger#btn_hero,
 .btn.btn-primary#btn_present_play{
     border-radius: 20px !important;
+    
+}
+.border_btn_b:hover {
+  border: 2px solid #00439C;
+}
+.btn_play_plus{
+    background-color: #D9DADC;
+    border-radius: 25px;
+}
+.btn_play_now{
+    background-color: #F5F5F5;
+    border-radius: 25px;
 
 }
-
+/******************
+       /button
+*******************/
 .sony_logo{
     width: 100px;
-}
-.container-fluid.hero_image{
-    background: url(../img_playstation/img/jumbo-bg.png) no-repeat center top;
-    width: 100vw;
-    height: auto;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
 }
 .content_hero{
     padding-top: 500px;
@@ -61,6 +68,18 @@ body{
 .title_section{
     font-size: 30px;
 }
+/******************
+      hero_image
+*******************/
+.container-fluid.hero_image{
+    background: url(../img_playstation/img/jumbo-bg.png) no-repeat center top;
+    width: 100vw;
+    height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 .play{
     height: 100%;
     width: 50%;
@@ -69,12 +88,26 @@ body{
     background-repeat: no-repeat;
     transform: scale(2);
 }
-.border_btn_b:hover {
-  border: 2px solid #00439C;
+.hero_image_two_players {
+  background-image: url("../img_playstation/img/it-takes-two-hero-banner-desktop.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px;
+  margin-top: 7.2rem;
 }
-.type_button {
-    display: inline-block;
+.hero_image_play_plus{
+    background-image: url("../img_playstation/img/ps-plus-april-monthly-games-featured-image-block.png");
+    background-position-x: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+/******************
+    /hero_image
+*******************/
+/******************
+      card
+*******************/
 .card_accessori {
     min-height: 259px;
     filter: opacity(0.5);
@@ -87,33 +120,13 @@ body{
     filter: opacity(1);
   border-bottom: 3px solid #00439C;
 }
-.hero_image_two_players {
-  background-image: url("../img_playstation/img/it-takes-two-hero-banner-desktop.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 700px;
-  margin-top: 7.2rem;
-}
-.btn_play_plus{
-    background-color: #D9DADC;
-    border-radius: 25px;
-}
-.hero_image_play_plus{
-    background-image: url("../img_playstation/img/ps-plus-april-monthly-games-featured-image-block.png");
-    background-position-x: 50px;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
+/******************
+      /card
+*******************/
 @media screen and (max-width:981px){
     .d_none{
         display: none;
     }    
-}
-.btn_play_now{
-    background-color: #F5F5F5;
-    border-radius: 25px;
-
 }
 .hero_avengers{
     transform: scale(.7) translateY(-220px);

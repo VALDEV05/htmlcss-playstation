@@ -24,6 +24,9 @@ correzione bottoni
 Modificato la color_correction delle card_accessori(aggiunta opacità)
 
 
+completata section playstation_plus
+
+
 
 
 

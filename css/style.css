@@ -73,18 +73,18 @@ body{
   border: 2px solid #00439C;
 }
 .type_button {
-  display: inline-block;
+    display: inline-block;
 }
 .card_accessori {
-  min-height: 259px;
-  filter: opacity(0.5);
+    min-height: 259px;
+    filter: opacity(0.5);
 }
 .card_accessori.selected{
-  border-bottom: 3px solid #00439C;
-  filter: opacity(1);
-
+    border-bottom: 3px solid #00439C;
+    filter: opacity(1);   
 }
 .card_accessori:hover {
+    filter: opacity(1);
   border-bottom: 3px solid #00439C;
 }
 .hero_image_two_players {
@@ -94,4 +94,13 @@ body{
   background-repeat: no-repeat no-repeat;
   height: 700px;
   margin-top: 7.2rem;
+}
+.btn_play_plus{
+    background-color: #D9DADC;
+    border-radius: 25px;
+}
+@media screen and (max-width:1190px){
+    .d_none{
+        display: none;
+    }    
 }

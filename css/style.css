@@ -75,9 +75,6 @@ body{
 .type_button {
   display: inline-block;
 }
-.blue_btn {
-  background-color: #00439C;
-}
 .card_accessori {
   min-height: 259px;
   cursor: pointer;

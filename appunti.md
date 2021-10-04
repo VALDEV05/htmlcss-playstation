@@ -19,6 +19,7 @@ Completata sezione hero_image_two_players
 Complete section_new_games_card
 
 Complete section esplora ps4 
+correzione bottoni
     <!-- Completare il funzionamento della navbar principale (usando o no un componente a seconda della classe); -->
     Realizzare gli effetti hover come visto in classe
     Fare pratica con le animazioni/transizioni aggingendo effetti a piacere (non fate pecionate)
